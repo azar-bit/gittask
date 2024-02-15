@@ -15,6 +15,8 @@ public class Git_Demo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        String name="Mohammad azaruddin";
+        System.out.println(name);
     }
     
 }
